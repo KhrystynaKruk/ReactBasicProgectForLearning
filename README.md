@@ -1,1 +1,1 @@
-# ReactStaticPage
+# ReactBasicProjectsForLearning
