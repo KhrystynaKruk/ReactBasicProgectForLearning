@@ -1,0 +1,1 @@
+# Static React Page-Notes
