@@ -1,3 +1,5 @@
+
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -11,9 +13,8 @@
   align-items: center;
   background-color: #616161; 
 color: #ffffff;
-  font-family: Arial, sans-serif; /* Change font */
   padding: 50px; /* Add padding */
-  border-radius: 10px; /* Add rounded corners */
+  border-radius: 10px 10px 0 0; /* Add rounded corners */
   width: 300px; /* Set width */
   margin: auto; /* Center horizontally */
 }
@@ -54,3 +55,20 @@ font-size: 15px;
 }
 
 
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+  color: #131313;
+  padding: 20px;
+  border-radius: 0 0  10px 10px; /* Add rounded corners */
+
+}
+
+.icon {
+  font-size: 24px;
+  margin: 0 10px;
+  cursor: pointer;
+  color: #000000;
+}
