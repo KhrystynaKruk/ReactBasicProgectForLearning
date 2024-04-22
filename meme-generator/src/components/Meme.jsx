@@ -1,5 +1,4 @@
 import React from "react"
-// import memesData from "../memeData.js"
 
 export default function Meme() {
         
